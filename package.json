@@ -1,7 +1,7 @@
 {
-  "homepage": "https://i-Popov.github.io/ra-layouts/",
   "name": "ra-layouts",
   "version": "0.1.0",
+  "homepage": "https://i-Popov.github.io/ra-layouts/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -17,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "prop-types": "^15.8.1"
   }
 }
