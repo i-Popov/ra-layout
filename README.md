@@ -1,4 +1,4 @@
-Deployment: https://i-popov.github.io/ra-layouts/
+Deployment: https://i-popov.github.io/ra-layout/
 
 Расположение товаров
 ===
