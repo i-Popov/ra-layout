@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ra-layouts/static/css/main.fda70be2.css",
-    "main.js": "/ra-layouts/static/js/main.1143b53a.js",
-    "static/js/787.b80f965c.chunk.js": "/ra-layouts/static/js/787.b80f965c.chunk.js",
-    "index.html": "/ra-layouts/index.html",
-    "main.fda70be2.css.map": "/ra-layouts/static/css/main.fda70be2.css.map",
-    "main.1143b53a.js.map": "/ra-layouts/static/js/main.1143b53a.js.map",
-    "787.b80f965c.chunk.js.map": "/ra-layouts/static/js/787.b80f965c.chunk.js.map"
+    "main.css": "/ra-layout/static/css/main.fda70be2.css",
+    "main.js": "/ra-layout/static/js/main.e0dd239c.js",
+    "static/js/787.b80f965c.chunk.js": "/ra-layout/static/js/787.b80f965c.chunk.js",
+    "index.html": "/ra-layout/index.html",
+    "main.fda70be2.css.map": "/ra-layout/static/css/main.fda70be2.css.map",
+    "main.e0dd239c.js.map": "/ra-layout/static/js/main.e0dd239c.js.map",
+    "787.b80f965c.chunk.js.map": "/ra-layout/static/js/787.b80f965c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fda70be2.css",
-    "static/js/main.1143b53a.js"
+    "static/js/main.e0dd239c.js"
   ]
 }
